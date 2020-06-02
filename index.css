@@ -1,0 +1,29 @@
+.bagan{
+    width: 100%;
+    height: auto;
+}
+ 
+.container{
+   margin-top: -2%;
+}
+.header{
+    background-color: rgb(255, 174, 0);
+    text-decoration: none;
+    border-radius: 15px;
+    font-size: 15px;
+   padding: 35px 45px;
+    
+    position: absolute;
+  
+   height: 16px;
+   width: 920px;
+   padding-top:14px;
+  
+   
+}
+.first{
+    color:white;
+   margin-left: 5px;
+  
+   
+}
